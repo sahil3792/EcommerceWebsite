@@ -1,33 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\source\\repos\\e-commerce_webapp\\e-commerce_webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\source\\repos\\e-commerce_webapp\\e-commerce_webapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\source\\repos\\e-commerce_webapp\\e-commerce_webapp\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\source\\repos\\e-commerce_webapp\\e-commerce_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\source\\repos\\e-commerce_webapp\\e-commerce_webapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\models\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\models\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\source\\repos\\e-commerce_webapp\\e-commerce_webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\source\\repos\\e-commerce_webapp\\e-commerce_webapp\\migrations\\20240821095702_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commerce_webapp\\e-commerce_webapp\\migrations\\20240821095702_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F23A7E0C-39A0-41C8-B7A5-0BFA15D63EBC}|E-commerce_webApp\\E-commerce_webApp.csproj|solutionrelative:e-commerce_webapp\\migrations\\20240821095702_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,60 +118,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignIn.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Views\\Auth\\SignIn.cshtml",
-              "RelativeDocumentMoniker": "E-commerce_webApp\\Views\\Auth\\SignIn.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Views\\Auth\\SignIn.cshtml",
-              "RelativeToolTip": "E-commerce_webApp\\Views\\Auth\\SignIn.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "E-commerce_webApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "E-commerce_webApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T11:31:00.618Z"
+              "WhenOpened": "2024-08-22T11:15:28.124Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-commerce_webApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E-commerce_webApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:15:09.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "E-commerce_webApp\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Controllers\\AuthController.cs",
               "RelativeToolTip": "E-commerce_webApp\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAqwDgAAABbAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAwwHMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T10:51:31.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240821095702_mg1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Migrations\\20240821095702_mg1.cs",
-              "RelativeDocumentMoniker": "E-commerce_webApp\\Migrations\\20240821095702_mg1.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Migrations\\20240821095702_mg1.cs",
-              "RelativeToolTip": "E-commerce_webApp\\Migrations\\20240821095702_mg1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T09:57:02.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "E-commerce_webApp\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Models\\User.cs",
               "RelativeToolTip": "E-commerce_webApp\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T09:50:05.709Z"
+              "WhenOpened": "2024-08-21T09:50:05.709Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "E-commerce_webApp\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "E-commerce_webApp\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAIwAsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,27 +182,105 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "E-commerce_webApp\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "E-commerce_webApp\\Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T09:30:57.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E-commerce_webApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E-commerce_webApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:47:39.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Views\\Auth\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "E-commerce_webApp\\Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Views\\Auth\\SignIn.cshtml",
+              "RelativeToolTip": "E-commerce_webApp\\Views\\Auth\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T11:31:00.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Models\\SignIn.cs",
+              "RelativeDocumentMoniker": "E-commerce_webApp\\Models\\SignIn.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Models\\SignIn.cs",
+              "RelativeToolTip": "E-commerce_webApp\\Models\\SignIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:53:29.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Program.cs",
+              "RelativeDocumentMoniker": "E-commerce_webApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Program.cs",
+              "RelativeToolTip": "E-commerce_webApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:44:46.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240821095702_mg1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Migrations\\20240821095702_mg1.cs",
+              "RelativeDocumentMoniker": "E-commerce_webApp\\Migrations\\20240821095702_mg1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Migrations\\20240821095702_mg1.cs",
+              "RelativeToolTip": "E-commerce_webApp\\Migrations\\20240821095702_mg1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:57:02.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-commerce_webApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-commerce_webApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T10:27:06.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\appsettings.json",
               "RelativeDocumentMoniker": "E-commerce_webApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\appsettings.json",
               "RelativeToolTip": "E-commerce_webApp\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-21T09:44:47.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Program.cs",
-              "RelativeDocumentMoniker": "E-commerce_webApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\Program.cs",
-              "RelativeToolTip": "E-commerce_webApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T09:44:46.183Z"
             }
           ]
         },

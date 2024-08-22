@@ -4110,11 +4110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\E-commerce_webApp.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\E-commerce_webApp.csproj",
       "projectName": "E-commerce_webApp",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\E-commerce_webApp.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\E-commerce_webApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\E-commerce_webApp\\E-commerce_webApp\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

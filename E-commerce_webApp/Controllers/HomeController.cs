@@ -15,6 +15,11 @@ namespace E_commerce_webApp.Controllers
 
         public IActionResult Index()
         {
+
+            if(string.IsNullOrEmpty(HttpContext.Session.GetString("MyUser")))
+            {
+                return RedirectToAction("SignIn", "Auth");
+            }
             return View();
         }
 
@@ -28,5 +33,9 @@ namespace E_commerce_webApp.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        
     }
+
+
 }
