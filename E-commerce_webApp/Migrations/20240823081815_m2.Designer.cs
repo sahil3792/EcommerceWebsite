@@ -3,6 +3,7 @@ using E_commerce_webApp.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace E_commerce_webApp.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240823081815_m2")]
+    partial class m2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -20,35 +23,6 @@ namespace E_commerce_webApp.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("E_commerce_webApp.Models.Cart", b =>
-                {
-                    b.Property<int>("Pid")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Pid"));
-
-                    b.Property<string>("Pcat")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Picture")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Pname")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<double>("Price")
-                        .HasColumnType("float");
-
-                    b.Property<string>("User")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Pid");
-
-                    b.ToTable("Carts");
-                });
 
             modelBuilder.Entity("E_commerce_webApp.Models.Product", b =>
                 {

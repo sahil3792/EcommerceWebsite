@@ -1,0 +1,35 @@
+﻿@model List<Product>
+
+<a asp-controller="Product" asp-action="AddProduct"><input type="button" value="AddProduct" class="btn btn-success" /></a>
+<br /><br />
+
+<form method="post">
+    <select name="choice">
+        <option>all</option>
+        <option>Top 5</option>
+        <option>Low to High</option>
+        <option>High to Low</option>
+    </select>
+    <input type="submit" value="search" class="btn btn-sm btn-success"/>
+</form>
+
+<div class="d-flex">
+    @foreach(var item in Model)
+    {
+        
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="/@item.Picture" height="200" width="200">
+            <div class="card-body">
+                <h5 class="card-title">@item.Pname</h5>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">@item.Pcat</li>
+                <li class="list-group-item">@item.Price</li>
+            </ul>
+            <div class="card-body">
+                <a asp-controller="Product" asp-action="AddToCart" asp-route-id="@item.Pid"><input type="button" value="Add to cart" class="btn btn-primary" /></a>
+            </div>
+        </div>
+    }
+</div>
+

@@ -5,6 +5,26 @@
       "PackagePath": "staticwebassets\\E-commerce_webApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\wwwroot\\Content\\Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\wwwroot\\Content\\Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\wwwroot\\Content\\Images\\3.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\wwwroot\\Content\\Images\\Fresh Mulberry.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\Fresh Mulberry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\wwwroot\\Content\\Images\\fashion-header-bg-8.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\fashion-header-bg-8.jpg"
+    },
+    {
       "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerce_webApp\\E-commerce_webApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
