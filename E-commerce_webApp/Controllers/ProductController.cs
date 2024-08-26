@@ -88,6 +88,8 @@ namespace E_commerce_webApp.Controllers
             };
             db.Add(obj);
             db.SaveChanges();
+
+            
             return RedirectToAction("Index");
         }
 
@@ -116,6 +118,14 @@ namespace E_commerce_webApp.Controllers
             {
                 var sess = HttpContext.Session.GetString("MyUser");
                 var prod = db.Carts.Where(x => x.User == sess).ToList();
+                var itemstotal = db.Carts.Sum(prod => prod.Price);
+                var totalCountofProduct = db.Carts.Count(prod=> prod.User == sess);
+                ViewBag.CartTotal = totalCountofProduct;
+                ViewBag.TotalPrice = itemstotal;
+                var deliverycharge = 50.00;
+                ViewBag.DeliveryCharge = deliverycharge;
+                var TotalAmount = itemstotal + deliverycharge;
+                ViewBag.TotalAmount = TotalAmount;
                 return View(prod);
 
             }
