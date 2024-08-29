@@ -93,6 +93,7 @@ namespace E_commerce_webApp.Controllers
                 if (us)
                 {
                     HttpContext.Session.SetString("MyUser", data.Email);
+                    HttpContext.Session.SetString("URole", data.Role);
                     return RedirectToAction("Index", "Home");
                 }
                 else
